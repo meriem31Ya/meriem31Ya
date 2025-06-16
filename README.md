@@ -4,7 +4,7 @@
 I’m a **web and mobile developer**, freelance **consultant**, and **educator** with a strong background in **networks and distributed systems**.
 
 - 🎓 **PhD Holder** in Networks and Distributed Systems with expertise in **Artificial Intelligence** and **Intrusion Detection Systems**.  
-- 🌟 Passionate about **Next.js**, **ExpressJS**, **Php**, and modern web technologies.
+- 🌟 Passionate about **Next.js**, **ExpressJS**, **React**, and modern web technologies.
 - 👩‍🏫 Experienced in teaching **cybersecurity and NETWORKS**, **machine learning**, and **web development**.
 -  🎓 **Microsoft Certified** in areas like **SC-200 (Microsoft Security Operations Analyst)** and other security-related topics.
 - 📚 Always learning to improve and keep up with industry trends.
